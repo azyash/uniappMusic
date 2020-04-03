@@ -1,0 +1,1 @@
+<view class="wTop"><uni-search-bar vue-id="1" radius="{{100}}" placeholder="search" data-event-opts="{{[['^confirm',[['search']]]]}}" bind:confirm="__e" bind:__l="__l"></uni-search-bar><icon type="success" size="26"></icon></view>

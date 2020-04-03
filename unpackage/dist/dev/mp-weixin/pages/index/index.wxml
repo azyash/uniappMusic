@@ -1,0 +1,1 @@
+<view id="index"><w-top vue-id="1" bind:__l="__l"></w-top><view class="banner"><swiper class="swiper" indicator-dots indicator-active-color="#4169E1" autoplay interval="3000"><block wx:for="{{banners}}" wx:for-item="item" wx:for-index="index" wx:key="index"><swiper-item><image src="{{item.imageUrl}}" mode="heightFix"></image></swiper-item></block></swiper></view></view>

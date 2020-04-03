@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "仅供学习",
+  "usingComponents": {
+    "music-item": "/components/common/musicItem"
+  }
+}

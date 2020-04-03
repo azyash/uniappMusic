@@ -1,0 +1,1 @@
+<view><scroll-view><block wx:for="{{musics}}" wx:for-item="item" wx:for-index="index" wx:key="index"><music-item vue-id="{{'1-'+index}}" index="{{index+1}}" musicItem="{{item}}" bind:__l="__l"></music-item></block></scroll-view></view>
